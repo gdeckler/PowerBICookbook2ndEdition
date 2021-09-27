@@ -1,7 +1,7 @@
-# PowerBICookbook2ndEdition
+# Power BI Cookbook 2nd Edition
 Build effective analytical data models, reports, and dashboards using the advanced features of Power BI
 
-Key Features
+# Key Features
 Updated with new recipes on query optimization, aggregation tables, Power BI API, and paginated reports
 Work with recipes across diverse Power BI platforms including the Power BI Service and Mobile Applications
 Implement custom solutions with M and DAX languages through actionable guidance and proven development techniques
@@ -10,7 +10,7 @@ Microsoft Power BI is a leading business intelligence and data analytics platfor
 
 The updated edition enables you to implement evergreen frameworks that will stay relevant as Power BI updates. Get familiar with Power BI development tools and services by going deep into the data connectivity, transformation, modeling, visualization, and analytical capabilities of Power BI. Microsoft Power BI Cookbook, Second Edition enables Power BI’s functional programming languages of DAX and M to come alive to deliver powerful solutions to common business intelligence challenges.
 
-What you will learn
+# What you will learn
 Cleanse, stage, and integrate your data sources with Power Query (M)
 Remove data complexities and provide users with intuitive, self-service BI capabilities
 Build business logic and analysis into your solutions via the DAX programming language and dashboard-ready calculations
@@ -18,10 +18,10 @@ Implement aggregation tables to accelerate query performance over large data sou
 Create and integrate paginated reports
 Understand the differences and implications of DirectQuery, Live Connections, Import, and Composite model datasets
 Integrate other Microsoft data tools into your Power BI solution
-Who This Book Is For
+# Who This Book Is For
 This book is for BI professionals who wish to enhance their knowledge of Power BI and the value of the Power BI solutions they deliver to business users. Those who are looking at quick solutions to common problems while using Power BI will also find this book to be an extremely useful resource. Familiarity with Power BI and working with datasets is essential. This book is not for beginners.
 
-Table of Contents
+# Table of Contents
 Configuring Power BI Tools
 Accessing and Retrieving Data
 Building a Power BI Data Model

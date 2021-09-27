@@ -1,5 +1,5 @@
 # Power BI Cookbook 2nd Edition
-<img src="PowerBICookbook2ndEdition.jpg" />
+<img src="PowerBICookbook2ndEditionCover.jpg" />
 Build effective analytical data models, reports, and dashboards using the advanced features of Power BI
 
 ## Key Features
